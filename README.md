@@ -274,9 +274,6 @@ delay = base ^ attempts
 
 ---
 
-# 📚 License
-
-MIT
 
 ---
 
