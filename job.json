@@ -1,0 +1,4 @@
+{
+  "command": "node -e \"setTimeout(()=>console.log('job: hello'),2000)\"",
+  "max_retries": 2
+}

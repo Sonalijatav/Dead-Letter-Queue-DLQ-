@@ -1,0 +1,21 @@
+{
+  "name": "queuectl",
+  "version": "1.0.0",
+  "description": "CLI-based background job queue (Node.js + MongoDB)",
+  "main": "src/cli.js",
+  "bin": {
+    "queuectl": "bin/queuectl"
+  },
+  "scripts": {
+    "start": "node bin/queuectl",
+    "test": "node scripts/run_tests.js"
+  },
+  "author": "Prepared by ChatGPT",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^7.0.0",
+    "yargs": "^17.0.0",
+    "dotenv": "^16.0.0",
+    "uuid": "^9.0.0"
+  }
+}

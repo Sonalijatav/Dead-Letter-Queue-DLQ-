@@ -1,0 +1,1 @@
+{ "command": "node -e \"console.log(\\\"worker-run-test\\\")\"", "max_retries": 1 }
